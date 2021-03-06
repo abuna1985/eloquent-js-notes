@@ -7,7 +7,9 @@
   - [1. Introduction](#1-introduction)
   - [2. On Programming](#2-on-programming)
   - [3. Why Language Matters](#3-why-language-matters)
-  - [What is JavaScript?](#what-is-javascript)
+  - [4. What Is JavaScript?](#4-what-is-javascript)
+  - [5. Code, And What To Do With It](#5-code-and-what-to-do-with-it)
+  - [6. Overview Of This Book](#6-overview-of-this-book)
 
 ## 1. Introduction
 
@@ -71,6 +73,19 @@ There will be times you read this book and get frustrated because it won't entir
 * Write down what is confusing you in question form and see if you can answer after rereading the chapter.
 * Take the question to a community of developers. Find an example you can show so more experienced developers can help you.
 
+
+A `program` is many things:
+
+* A piece of text typed by a programmer
+* The directing force that makes the computer do things
+* Data from in the computer's memory
+* It controls the actions performed on the computer's memory
+
 ## 3. Why Language Matters
 
-## What is JavaScript?
+## 4. What Is JavaScript?
+
+## 5. Code, And What To Do With It
+
+## 6. Overview Of This Book
+
